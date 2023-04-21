@@ -1,0 +1,1 @@
+export const regions : string[] = ["eu", "na", "ap", "kr", "latam", "br"];
